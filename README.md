@@ -23,7 +23,7 @@ This project aims to implement a C++ program to calculate the square root of a n
 1. Clone the project repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/vptyp/newton_sqrt.git
     ```
 
 2. Navigate to the project directory:
